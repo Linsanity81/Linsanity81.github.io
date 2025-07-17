@@ -9,9 +9,8 @@ profile:
   image: prof_pic_rulin.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>CC Building</p>
-    <p>2000 Jintong Road</p>
-    <p>Tangjiawan, Zhuhai</p>
+    <p>Email: rulinchen@uic.edu.cn</p>
+    <p>Office: CC Building, BNBU</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -27,9 +26,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+###### **Assistant Professor 助理教授**
+###### School of Culture and Creativity 文化与创意学院
+###### Beijing Normal-Hong Kong Baptist University 北师香港浸会大学
+
 <br>  
 
-I am currently an Assistant Professor at the School of Culture and Creativity, BNBU. Previously, I was a postdoctoral researcher at the [Computer Graphics Laboratory](https://sutd-cgl.github.io/), Singapore University of Technology and Design, under the supervision of [Prof. Peng Song 宋鹏](https://songpenghit.github.io/), where I received my doctoral degree in June 2024. Prior to that, I earned my bachelor’s degree from Shantou University, supervised by [Prof. Chuliang Wei 魏楚亮](https://eng.stu.edu.cn/info/1084/1866.htm). During 2019 to 2020, I was a research intern at CUHKSZ under the supervision of [Prof. Zhenglong Sun 孙正隆](https://sites.google.com/site/sunkurt/home).
+I am currently an Assistant Professor at the School of Culture and Creativity, BNBU. Previously, I was a postdoctoral researcher at the [Computer Graphics Laboratory](https://sutd-cgl.github.io/), Singapore University of Technology and Design, under the supervision of [Prof. Peng Song 宋鹏](https://songpenghit.github.io/), where I received my doctoral degree in 2024. Prior to that, I earned my bachelor’s degree from Shantou University in 2020, supervised by [Prof. Chuliang Wei 魏楚亮](https://eng.stu.edu.cn/info/1084/1866.htm). During 2019 to 2020, I was a research intern at CUHKSZ under the supervision of [Prof. Zhenglong Sun 孙正隆](https://sites.google.com/site/sunkurt/home).
 
 Research Areas: **Computer Graphics**, **Computational Design**, **VR/AR/MR**
 
@@ -123,6 +126,6 @@ I am currently an Assistant Professor at the School of Culture and Creativity, B
             
 |-------------|--------------------------------------|
 | 2024 　　　   | SUTD Best Ph.D. Thesis Nomination 　　　|
-| 2022 　　　   | SIGGRAPH 2022 Technical Papers Award: Best Paper Honorable Mention 　　　|
+| 2022 　　　   | SIGGRAPH 2022 Best Paper Honorable Mention Award　　　|
 | 2020   　　　| SUTD Ph.D. Fellowship       　　　 |
 
