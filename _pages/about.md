@@ -2,11 +2,11 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor, Beijing Normal-Hong Kong Baptist University
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_rulin.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>CC Building</p>
@@ -29,14 +29,14 @@ latest_posts:
 
 <br>  
 
-I am currently an Assistant Professor at the School of Culture and Creativity, BNBU. Previously, I was a postdoctoral researcher at the [Computer Graphics Laboratory](https://sutd-cgl.github.io/), Singapore University of Technology and Design, under the supervision of [Prof. Peng Song](https://songpenghit.github.io/), where I received my doctoral degree in June 2024. Prior to that, I earned my bachelor’s degree from Shantou University, supervised by [Prof. Chuliang Wei](https://eng.stu.edu.cn/info/1084/1866.htm). During 2019 to 2020, I was a research intern at CUHKSZ under the supervision of [Prof. Zhenglong Sun](https://sites.google.com/site/sunkurt/home).
+I am currently an Assistant Professor at the School of Culture and Creativity, BNBU. Previously, I was a postdoctoral researcher at the [Computer Graphics Laboratory](https://sutd-cgl.github.io/), Singapore University of Technology and Design, under the supervision of [Prof. Peng Song 宋鹏](https://songpenghit.github.io/), where I received my doctoral degree in June 2024. Prior to that, I earned my bachelor’s degree from Shantou University, supervised by [Prof. Chuliang Wei 魏楚亮](https://eng.stu.edu.cn/info/1084/1866.htm). During 2019 to 2020, I was a research intern at CUHKSZ under the supervision of [Prof. Zhenglong Sun 孙正隆](https://sites.google.com/site/sunkurt/home).
 
 Research Areas: **Computer Graphics**, **Computational Design**, **VR/AR/MR**
 
 <br>  
 <br> 
 
-#### News
+#### **News**
 
 |-------------|--------------------------------------|
 | 2025.8　　　   | I will be joining BNBU this September as an Assistant Professor! |
@@ -46,18 +46,80 @@ Research Areas: **Computer Graphics**, **Computational Design**, **VR/AR/MR**
 
 <br> 
 
-#### Work and Education Experience
+#### **Short Bio**
 
-|-------------|--------------------------------------|-----------------------------|
-| 2025.9 - present 　　　   | Assistant Professor  　　　| BNBU         |
-| 2024.9 – 2025.8   　　　| Postdoctoral Researcher       　　　  | SUTD     |
-| 2020.9 – 2024.7   　　　| Ph.D. in Computer Graphics | SUTD             |
-| 2019.9 – 2020.7   　　| Visiting Student | CUHKSZ |
-| 2016.9 – 2020.7   | B.S. in Electrical Engineering | Shantou University |
+<div align="justify">
+
+I am currently an Assistant Professor at the School of Culture and Creativity, BNBU. Previously, I was a postdoctoral researcher at the <a href="https://sutd-cgl.github.io/">Computer Graphics Laboratory</a>, Singapore University of Technology and Design, under the supervision of <a href="https://songpenghit.github.io/">Prof. Peng Song</a>, where I received my doctoral degree in June 2024. Prior to that, I earned my bachelor’s degree from Shantou University, supervised by <a href="https://eng.stu.edu.cn/info/1084/1866.htm">Prof. Chuliang Wei</a>. During 2019 to 2020, I was a research intern at CUHKSZ under the supervision of <a href="https://sites.google.com/site/sunkurt/home">Prof. Zhenglong Sun</a>.
+
+</div>
+
+
+<br> 
+
+#### **Work and Education Experience**
+
+<table border="0" cellspacing="0" cellpadding="8">
+  <tbody>
+    <tr>
+      <td>2025 - present </td>
+      <td>Assistant Professor</td>
+      <td>BNBU</td>
+      <td><img src="../assets/img/logo_BNBU.png" width="80"></td>
+    </tr>
+    <tr>
+      <td>2024 – 2025</td>
+      <td>Postdoctoral Researcher</td>
+      <td>SUTD</td>
+      <td><img src="../assets/img/logo_SUTD.png" width="80"></td>
+    </tr>
+    <tr>
+      <td>2020 – 2024</td>
+      <td>Ph.D. in Computer Graphics</td>
+      <td>SUTD</td>
+      <td><img src="../assets/img/logo_SUTD.png" width="80"></td>
+    </tr>
+    <tr>
+      <td>2019 – 2020</td>
+      <td>Visiting Student</td>
+      <td>CUHKSZ</td>
+      <td><img src="../assets/img/logo_CUHK.jpg" width="80"></td>
+    </tr>
+    <tr>
+      <td>2016 – 2020</td>
+      <td>B.S. in Electrical Engineering</td>
+      <td>Shantou University</td>
+      <td><img src="../assets/img/logo_STU.jpg" width="80"></td>
+    </tr>
+  </tbody>
+</table>
  
 <br> 
 
-#### Awards
+#### **Teaching Experience**
+
+##### Semester-long Course at BNBU
+
+|----------|-----------------|---------------------|-----------------------------|
+| MAD3103 |Game Design 　　　   | Instructor 　　　| 2025 Fall      |
+| AIM2053 |Programming Introduction 　　　   | Instructor 　　　| 2025 Fall     |
+| 　　　 |  |  　　　|     |
+
+##### Semester-long Course at SUTD
+
+|----------|----------------|----------------------|-----------------------------|
+| 50.017 |Graphics and Visualisation 　　　   | Teaching Assistant  　　　| 2021 - 2024       |
+| 　　　 |  |  　　　|     |
+
+##### Summer Program
+
+|----------|--------------------------------------|-----------------------------|
+| MIT Summer Geometry Initiative　　　   | Guest Lecturer 　　　| 2024 Fall      |
+| SUTD-ZJU Summer Exchange Program 　　　   | Guest Lecturer  　　　| 2022 Fall      |
+ 
+<br> 
+
+#### **Awards**
             
 |-------------|--------------------------------------|
 | 2024 　　　   | SUTD Best Ph.D. Thesis Nomination 　　　|
