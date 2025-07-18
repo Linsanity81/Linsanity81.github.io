@@ -32,28 +32,49 @@ latest_posts:
 
 <br>  
 
-I am currently an Assistant Professor at the School of Culture and Creativity, BNBU. Previously, I was a postdoctoral researcher at the [Computer Graphics Laboratory](https://sutd-cgl.github.io/), Singapore University of Technology and Design, under the supervision of [Prof. Peng Song 宋鹏](https://songpenghit.github.io/), where I received my doctoral degree in 2024. Prior to that, I earned my bachelor’s degree from Shantou University in 2020, supervised by [Prof. Chuliang Wei 魏楚亮](https://eng.stu.edu.cn/info/1084/1866.htm). During 2019 to 2020, I was a research intern at CUHKSZ under the supervision of [Prof. Zhenglong Sun 孙正隆](https://sites.google.com/site/sunkurt/home).
+<div align="justify">
+
+Welcome to my website! I am currently an Assistant Professor at the School of Culture and Creativity, BNBU. My research lies at the <strong>unique intersection of computer graphics and physical art/design</strong>, where I develop computational tools for the automatic design of intriguing and functional, fabricable objects, such as puzzles, architectural structures, and furniture. My work has been published in top venues in computer graphics, including SIGGRAPH, TOG, and TVCG. My Ph.D. thesis was nominated to SUTD Best Ph.D. Thesis Award and I received SIGGRAPH 2022 Best Paper Honorable Mention Award. <strong style="color: red;">I am always open to collaborations with researchers from diverse backgrounds. If you’re interested or share similar research interests, feel free to drop me an email!</strong>
+
+</div>
+
+<br> 
 
 Research Areas: **Computer Graphics**, **Computational Design**, **VR/AR/MR**
 
-<br>  
+Find more about me:&nbsp;&nbsp;&nbsp;[Google Scholar](https://scholar.google.com.hk/citations?hl=en&user=pvDnpkAAAAAJ)&nbsp;&nbsp;&nbsp;[BNBU Page](https://www.uic.edu.cn/en/faculty.htm#/rulinchen/en)&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/rulin-chen-74a144171/)
+
 <br> 
 
 #### **News**
 
-|-------------|--------------------------------------|
-| 2025.8　　　   | I will be joining BNBU this September as an Assistant Professor! |
-| 2025.4   　　　| One paper was accepted by TVCG. |
-| 2024.9   　　　| Starting my Postdoc journey at SUTD. |
-| 2024.7   　　　| Pass my Ph.D. defense without correction! |
-
-<br> 
+<table border="0" cellspacing="0" cellpadding="8">
+  <tbody>
+    <tr>
+      <td>2025.8</td>
+      <td>I will be joining BNBU this September as an Assistant Professor!</td>
+    </tr>
+    <tr>
+      <td>2025.4</td>
+      <td>One paper accepted by TVCG.</td>
+    </tr>
+    <tr>
+      <td>2024.9</td>
+      <td>Starting my Postdoc journey at SUTD.</td>
+    </tr>
+        <tr>
+      <td>2024.7</td>
+      <td>Pass my Ph.D. defense without correction!</td>
+    </tr>
+  </tbody>
+</table>
+<br>  
 
 #### **Short Bio**
 
 <div align="justify">
 
-I am currently an Assistant Professor at the School of Culture and Creativity, BNBU. Previously, I was a postdoctoral researcher at the <a href="https://sutd-cgl.github.io/">Computer Graphics Laboratory</a>, Singapore University of Technology and Design, under the supervision of <a href="https://songpenghit.github.io/">Prof. Peng Song</a>, where I received my doctoral degree in June 2024. Prior to that, I earned my bachelor’s degree from Shantou University, supervised by <a href="https://eng.stu.edu.cn/info/1084/1866.htm">Prof. Chuliang Wei</a>. During 2019 to 2020, I was a research intern at CUHKSZ under the supervision of <a href="https://sites.google.com/site/sunkurt/home">Prof. Zhenglong Sun</a>.
+Prior to joining BNBU, I was a postdoctoral researcher at the <a href="https://sutd-cgl.github.io/">Computer Graphics Laboratory</a>, Singapore University of Technology and Design, under the supervision of <a href="https://songpenghit.github.io/">Prof. Peng Song</a>, where I received my doctoral degree in June 2024. Prior to that, I earned my bachelor’s degree from Shantou University, supervised by <a href="https://eng.stu.edu.cn/info/1084/1866.htm">Prof. Chuliang Wei</a>. During 2019 to 2020, I was a research intern at CUHKSZ under the supervision of <a href="https://sites.google.com/site/sunkurt/home">Prof. Zhenglong Sun</a>.
 
 </div>
 
@@ -65,7 +86,7 @@ I am currently an Assistant Professor at the School of Culture and Creativity, B
 <table border="0" cellspacing="0" cellpadding="8">
   <tbody>
     <tr>
-      <td>2025 - present </td>
+      <td>2025 - present</td>
       <td>Assistant Professor</td>
       <td>BNBU</td>
       <td><img src="../assets/img/logo_BNBU.png" width="80"></td>
@@ -103,29 +124,73 @@ I am currently an Assistant Professor at the School of Culture and Creativity, B
 
 ##### Semester-long Course at BNBU
 
-|----------|-----------------|---------------------|-----------------------------|
-| MAD3103 |Game Design 　　　   | Instructor 　　　| 2025 Fall      |
-| AIM2053 |Programming Introduction 　　　   | Instructor 　　　| 2025 Fall     |
-| 　　　 |  |  　　　|     |
+<table border="0" cellspacing="0" cellpadding="8">
+  <tbody>
+    <tr>
+      <td>MAD3103</td>
+      <td>Game Design</td>
+      <td>Instructor</td>
+      <td>2025 - present</td>
+    </tr>
+    <tr>
+      <td>AIM2053</td>
+      <td>Programming Introduction</td>
+      <td>Instructor</td>
+      <td>2025 - present</td>
+    </tr>
+  </tbody>
+</table>
+<br> 
 
 ##### Semester-long Course at SUTD
 
-|----------|----------------|----------------------|-----------------------------|
-| 50.017 |Graphics and Visualisation 　　　   | Teaching Assistant  　　　| 2021 - 2024       |
-| 　　　 |  |  　　　|     |
+<table border="0" cellspacing="0" cellpadding="8">
+  <tbody>
+    <tr>
+      <td>50.017</td>
+      <td>Graphics and Visualisation</td>
+      <td>Teaching Assistant</td>
+      <td>2025 - present</td>
+    </tr>
+  </tbody>
+</table>
+<br> 
 
 ##### Summer Program
 
-|----------|--------------------------------------|-----------------------------|
-| MIT Summer Geometry Initiative　　　   | Guest Lecturer 　　　| 2024 Fall      |
-| SUTD-ZJU Summer Exchange Program 　　　   | Guest Lecturer  　　　| 2022 Fall      |
- 
+<table border="0" cellspacing="0" cellpadding="8">
+  <tbody>
+    <tr>
+      <td>MIT Summer Geometry Initiative</td>
+      <td>Guest Lecturer</td>
+      <td>2024 Fall</td>
+    </tr>
+    <tr>
+      <td>SUTD-ZJU Summer Exchange Program</td>
+      <td>Guest Lecturer</td>
+      <td>2022 Fall</td>
+    </tr>
+  </tbody>
+</table>
 <br> 
 
 #### **Awards**
-            
-|-------------|--------------------------------------|
-| 2024 　　　   | SUTD Best Ph.D. Thesis Nomination 　　　|
-| 2022 　　　   | SIGGRAPH 2022 Best Paper Honorable Mention Award　　　|
-| 2020   　　　| SUTD Ph.D. Fellowship       　　　 |
+
+<table border="0" cellspacing="0" cellpadding="8">
+  <tbody>
+    <tr>
+      <td>2024</td>
+      <td>SUTD Best Ph.D. Thesis Nomination</td>
+    </tr>
+    <tr>
+      <td>2022</td>
+      <td>SIGGRAPH 2022 Best Paper Honorable Mention Award</td>
+    </tr>
+    <tr>
+      <td>2020</td>
+      <td>SUTD Ph.D. Fellowship</td>
+    </tr>
+  </tbody>
+</table>
+<br> 
 
