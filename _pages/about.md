@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email: rulinchen@uic.edu.cn</p>
-    <p>Office: CC Building, BNBU</p>
+    <p>Office: CC Building, BNBU</p><br>
     <a href="https://scholar.google.com.hk/citations?hl=en&user=pvDnpkAAAAAJ" target="_blank">Google Scholar</a>&nbsp;
     <a href="https://www.researchgate.net/profile/Rulin-Chen-3/research" target="_blank">Researchgate</a><br>
     <a href="https://www.uic.edu.cn/en/faculty.htm#/rulinchen/en" target="_blank">BNBU Page</a>&nbsp;&nbsp;&nbsp;
