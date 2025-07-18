@@ -74,7 +74,7 @@ Welcome to my website! I am currently an Assistant Professor at the School of Cu
 
 <div align="justify">
 
-Prior to joining BNBU, I was a postdoctoral researcher at the <a href="https://sutd-cgl.github.io/">Computer Graphics Laboratory</a>, Singapore University of Technology and Design, under the supervision of <a href="https://songpenghit.github.io/">Prof. Peng Song</a>, where I received my doctoral degree in June 2024. Prior to that, I earned my bachelor’s degree from Shantou University, supervised by <a href="https://eng.stu.edu.cn/info/1084/1866.htm">Prof. Chuliang Wei</a>. During 2019 to 2020, I was a research intern at CUHKSZ under the supervision of <a href="https://sites.google.com/site/sunkurt/home">Prof. Zhenglong Sun</a>.
+Prior to joining BNBU, I was a postdoctoral researcher at the <a href="https://sutd-cgl.github.io/">Computer Graphics Laboratory</a>, Singapore University of Technology and Design, under the supervision of <a href="https://songpenghit.github.io/">Prof. Peng Song</a>, where I also received my doctoral degree in 2024. Prior to that, I earned my bachelor’s degree from Shantou University in 2020, supervised by <a href="https://eng.stu.edu.cn/info/1084/1866.htm">Prof. Chuliang Wei</a>. During 2019 to 2020, I was a research intern at CUHKSZ under the supervision of <a href="https://sites.google.com/site/sunkurt/home">Prof. Zhenglong Sun</a>.
 
 </div>
 
