@@ -11,6 +11,10 @@ profile:
   more_info: >
     <p>Email: rulinchen@uic.edu.cn</p>
     <p>Office: CC Building, BNBU</p>
+    <a href="https://scholar.google.com.hk/citations?hl=en&user=pvDnpkAAAAAJ" target="_blank">Google Scholar</a>&nbsp;
+    <a href="https://www.researchgate.net/profile/Rulin-Chen-3/research" target="_blank">Researchgate</a><br>
+    <a href="https://www.uic.edu.cn/en/faculty.htm#/rulinchen/en" target="_blank">BNBU Page</a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/rulin-chen-74a144171/" target="_blank">LinkedIn</a>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -29,6 +33,7 @@ latest_posts:
 ###### **Assistant Professor 助理教授**
 ###### School of Culture and Creativity 文化与创意学院
 ###### Beijing Normal-Hong Kong Baptist University 北师香港浸会大学
+###### Research Areas: **Computer Graphics**, **Computational Design**, **VR/AR/MR**
 
 <br>  
 
@@ -39,11 +44,6 @@ Welcome to my website! I am currently an Assistant Professor at the School of Cu
 </div>
 
 <br> 
-
-Research Areas: **Computer Graphics**, **Computational Design**, **VR/AR/MR**
-
-Find more about me:&nbsp;&nbsp;&nbsp;[Google Scholar](https://scholar.google.com.hk/citations?hl=en&user=pvDnpkAAAAAJ)&nbsp;&nbsp;&nbsp;[BNBU Page](https://www.uic.edu.cn/en/faculty.htm#/rulinchen/en)&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/rulin-chen-74a144171/)
-
 <br> 
 
 #### **News**
