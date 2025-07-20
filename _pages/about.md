@@ -56,7 +56,7 @@ Welcome to my website! I am currently an Assistant Professor at the School of Cu
     </tr>
     <tr>
       <td>2025.4</td>
-      <td>One paper accepted by TVCG.</td>
+      <td><a href="https://sutd-cgl.github.io/supp/Publication/projects/2025-TVCG-FrameMesh/index.html">One paper</a> accepted by IEEE TVCG.</td>
     </tr>
     <tr>
       <td>2024.9</td>
@@ -194,3 +194,40 @@ Prior to joining BNBU, I was a postdoctoral researcher at the <a href="https://s
 </table>
 <br> 
 
+#### **Professional Services**
+
+##### Journal Reviewer
+
+<table border="0" cellspacing="0" cellpadding="8">
+  <tbody>
+    <tr>
+      <td>2025</td>
+      <td>Computer & Graphics</td>
+    </tr>
+    <tr>
+      <td>2024</td>
+      <td>ACM Transactions on Graphics, Computer & Graphics</td>
+    </tr>
+  </tbody>
+</table>
+<br> 
+
+##### Conference Reviewer
+
+<table border="0" cellspacing="0" cellpadding="8">
+  <tbody>
+    <tr>
+      <td>2025</td>
+      <td>Pacific Graphics, SPM</td>
+    </tr>
+    <tr>
+      <td>2024</td>
+      <td>SIGGRAPH Asia, Pacific Graphics</td>
+    </tr>
+    <tr>
+      <td>2023</td>
+      <td>CGI</td>
+    </tr>
+  </tbody>
+</table>
+<br> 
