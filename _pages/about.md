@@ -51,6 +51,14 @@ Welcome to my website! I am currently an Assistant Professor at the School of Cu
 <table border="0" cellspacing="0" cellpadding="8">
   <tbody>
     <tr>
+      <td>2025.9</td>
+      <td>One paper accepted by SIGGRAPH Asia (Conference-track).</td>
+    </tr>
+    <tr>
+      <td>2025.9</td>
+      <td>One paper accepted by Pacific Graphics (Journal-track).</td>
+    </tr>
+    <tr>
       <td>2025.8</td>
       <td>I will be joining BNBU this September as an Assistant Professor!</td>
     </tr>
