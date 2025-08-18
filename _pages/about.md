@@ -56,7 +56,7 @@ Welcome to my website! I am currently an Assistant Professor at the School of Cu
     </tr>
     <tr>
       <td>2025.9</td>
-      <td>One paper accepted by Pacific Graphics (Journal-track).</td>
+      <td>One paper accepted by Computer Graphics Forum (Pacific Graphics Journal-track).</td>
     </tr>
     <tr>
       <td>2025.8</td>
