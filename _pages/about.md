@@ -226,7 +226,7 @@ Prior to joining BNBU, I was a postdoctoral researcher at the <a href="https://s
   <tbody>
     <tr>
       <td>2025</td>
-      <td>Pacific Graphics, SPM</td>
+      <td>Pacific Graphics, SPM, ACM Symposium on Computational Fabrication</td>
     </tr>
     <tr>
       <td>2024</td>
