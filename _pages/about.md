@@ -158,7 +158,7 @@ Prior to joining BNBU, I was a postdoctoral researcher at the <a href="https://s
       <td>50.017</td>
       <td>Graphics and Visualisation</td>
       <td>Teaching Assistant</td>
-      <td>2025 - present</td>
+      <td>2021 - 2024</td>
     </tr>
   </tbody>
 </table>
